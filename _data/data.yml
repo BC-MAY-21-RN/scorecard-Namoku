@@ -13,16 +13,16 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: contact@namoku.xyz
-  phone: 3141128567
+  phone: 
   website: namoku.xyz # No agregar http://
   linkedin: namoku
   github: namoku
-  gitlab: namoku
+  gitlab: 
   bitbucket:
   twitter: '@namooku'
   stack-overflow: 11478865/Namoku # Number/Username, e.g. 123456/alandoe
   codewars:
-  goodreads: namoku # Number-Username, e.g. 123456-alandoe
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -107,6 +107,9 @@ skills:
 
     - name: Lua
       level: 40%
+
+    - name: Vim
+      level: 80%
 
 # NO MODIFICAR
 footer: >
